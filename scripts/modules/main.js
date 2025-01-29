@@ -85,8 +85,8 @@ function setupLevel() {
         // background.style.backgroundImage = "url(../images/Test.png)"
         // background.style.backgroundImage = "url('../images/test.png')"
     // background.style.backgroundImage = "url('../Images/test.png')"
-    // background.style.backgroundImage = "url('../Images/Test.png')"
-    background.style.backgroundImage = "url('../images/Test.png')"
+    background.style.backgroundImage = "url('../Images/Test.png')"
+    // background.style.backgroundImage = "url('../images/Test.png')"
     // background.style.display = "none"
     menu.style.display = "none"
     global.allGameObjects = []
