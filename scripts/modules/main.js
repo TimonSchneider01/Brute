@@ -79,13 +79,13 @@ function setupGame() {
 // First Level
 function setupLevel() {
     let Interval = setInterval(timeCount, 1000)
-    background.style.backgroundImage = "url(../images/test.png)"
-        background.style.backgroundImage = "url(../Images/test.png)"
-        background.style.backgroundImage = "url(../Images/Test.png)"
-        background.style.backgroundImage = "url(../images/Test.png)"
-        background.style.backgroundImage = "url('../images/test.png')"
-    background.style.backgroundImage = "url('../Images/test.png')"
-    background.style.backgroundImage = "url('../Images/Test.png')"
+    // background.style.backgroundImage = "url(../images/test.png)"
+        // background.style.backgroundImage = "url(../Images/test.png)"
+        // background.style.backgroundImage = "url(../Images/Test.png)"
+        // background.style.backgroundImage = "url(../images/Test.png)"
+        // background.style.backgroundImage = "url('../images/test.png')"
+    // background.style.backgroundImage = "url('../Images/test.png')"
+    // background.style.backgroundImage = "url('../Images/Test.png')"
     background.style.backgroundImage = "url('../images/Test.png')"
     // background.style.display = "none"
     menu.style.display = "none"
