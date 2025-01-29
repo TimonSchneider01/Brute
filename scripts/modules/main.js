@@ -79,7 +79,7 @@ function setupGame() {
 // First Level
 function setupLevel() {
     let Interval = setInterval(timeCount, 1000)
-    background.style.backgroundImage = "url('../images/test1.png')";
+    background.style.backgroundImage = "url('./Brute/images/test.png')";
     // background.style.display = "none"
     menu.style.display = "none"
     global.allGameObjects = []
