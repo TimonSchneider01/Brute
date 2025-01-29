@@ -59,7 +59,8 @@ body, html {
     width: 1200px; 
     height: 720px;
     /* background-image: url("../images/background.png"); */
-    background-image: url("../images/background3.png");
+/*     background-image: url("../images/background3.png"); */
+    background-image: url("../images/test.png");
     /* background-image: url("../images/background2.png"); */
     /* background-image: url("../images/backgroundtest.jpeg"); */
     background-size: cover;
