@@ -24,7 +24,7 @@ class Grimoire extends BaseGameObject {
         "timePerSprite": 0.08,
         "currentSpriteElapsedTime": 0,
         "firstSpriteIndex": 0,
-        "lastSpriteIndex": 1,
+        "lastSpriteIndex": 8,
         "currentSpriteIndex": 0,
     };
 
