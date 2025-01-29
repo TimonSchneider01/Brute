@@ -72,14 +72,14 @@ class Grimoire extends BaseGameObject {
         let image9 = new Image();
         let image10 = new Image();
         image1.src = "./images/Grimoire/Grimoire1.png";
-        image2.src = "./images/Grimoire/Grimoire2.png";
-        image3.src = "./images/Grimoire/Grimoire3.png";
-        image4.src = "./images/Grimoire/Grimoire4.png";
-        image5.src = "./images/Grimoire/Grimoire5.png";
-        image6.src = "./images/Grimoire/Grimoire6.png";
-        image7.src = "./images/Grimoire/Grimoire7.png";
-        image8.src = "./images/Grimoire/Grimoire8.png";
-        image9.src = "./images/Grimoire/Grimoire9.png";
+        image2.src = "./images/Grimoire/grimoire2.png";
+        image3.src = "./images/Grimoire/grimoire3.png";
+        image4.src = "./images/Grimoire/grimoire4.png";
+        image5.src = "./images/Grimoire/grimoire5.png";
+        image6.src = "./images/Grimoire/grimoire6.png";
+        image7.src = "./images/Grimoire/grimoire7.png";
+        image8.src = "./images/Grimoire/grimoire8.png";
+        image9.src = "./images/Grimoire/grimoire9.png";
         /* after images have been loaded, they are added to animationData.animationSprites */
         this.animationData.animationSprites.push(image1, image2, image3, image4, image5, image6, image7, image8, image9);
     }
